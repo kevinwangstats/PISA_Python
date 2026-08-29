@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PISA Data Lake & Artifacts
+Data/Raw
+Data/Raw_New/
+Data/Output/
+Data/Documentation/
+*.duckdb
+*.duckdb.wal
+*.parquet
